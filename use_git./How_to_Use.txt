@@ -4,7 +4,6 @@
 create repo in github Web, How to https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository
 
 # Add New File in local computer and publish to github repo
-
 1. git clone  (https://(git repo url)) => example  git clone https://github.com/teknoplanner/myproject           // import Content Repositori to local Computer
 2. touch (file Name) => example: touch hallo.html                                                                // add new file on repo
 3. git add hallo.html                                                                                            // file add to git repo 
@@ -16,7 +15,6 @@ create repo in github Web, How to https://docs.github.com/en/github/creating-clo
 
 
 # Modify file and publish
-
 1. git status                                                                                                     // check status
 2. git add (file modify) => example: git add hallo.html                                                           // run git file modified
 3. git commit -am "Message" => message git commit -am "Add Modified file"                                         // add commit, -am=(All Change) 
