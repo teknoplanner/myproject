@@ -1,5 +1,7 @@
 #How to use git in commad line (Test on Kali linux)
 
+Because use, crete repo in github Web, How to https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository
+
 1. git clone  (https://(git repo url)) => example  git clone https://github.com/teknoplanner/myproject           // import Content Repositori to local Computer
 2. touch (file Name) => example: touch hallo.html                                                                // add new file on repo
 3. git add hallo.html                                                                                            // file add to git repo 
