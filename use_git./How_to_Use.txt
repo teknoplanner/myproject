@@ -1,14 +1,26 @@
-#How to use git in commad line (Test on Kali linux)
+# How to use git in commad line (Test on Kali linux) 
 
-Because use, crete repo in github Web, How to https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository
+
+create repo in github Web, How to https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository
+
+# Add New File in local computer and publish to github repo
 
 1. git clone  (https://(git repo url)) => example  git clone https://github.com/teknoplanner/myproject           // import Content Repositori to local Computer
 2. touch (file Name) => example: touch hallo.html                                                                // add new file on repo
 3. git add hallo.html                                                                                            // file add to git repo 
-4. git commit -m "Message" (in english language)" => example: git commit -m "Add hallo.html"                       // Commit file in repo to go publish
+4. git commit -m "Message" (in english language)" => example: git commit -m "Add hallo.html"                     // Commit file in repo to go publish, -m =(spcific)
 5. git status                                                                                                    // check status git
 6. git push                                                                                                      // publish file in github repo 
 7. Login github account
 8. Check github web and refresh, file done add
+
+
+# Modify file and publish
+
+1. git status                                                                                                     // check status
+2. git add (file modify) => example: git add hallo.html                                                           // run git file modified
+3. git commit -am "Message" => message git commit -am "Add Modified file"                                         // add commit, -am=(All Change) 
+4. git push                                                                                                       // go publish
+
 
 ~~Good Luck~~
