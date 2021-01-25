@@ -1,4 +1,4 @@
-# How to use git in commad line (Test on Kali linux) 
+# Howto use git in commad line (Test on Kali linux) 
 
 
 create repo in github Web, How to https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository
